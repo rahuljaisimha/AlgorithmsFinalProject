@@ -1,0 +1,11 @@
+This program was written for java8
+
+compile "src/AlgorithmsProject2/Driver.java"
+
+run "src/AlgorithmsProject2.Driver <inputfile>"
+(<inputfile> is the file name for the file containing the input)
+
+Assumptions:
+- My program assumes IDs are given as 1, 2, ..., N.
+- It assumes all processes take time > 0.
+- It also assumes there are no cycles of dependency.

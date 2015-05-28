@@ -1,0 +1,9 @@
+This program was written for java8
+
+compile "src/AlgorithmsFinalProject/Driver.java"
+
+run "src/AlgorithmsFinalProject.Driver <inputfile>"
+(<inputfile> is the file name for the file containing the input)
+
+My program assumes IDs are given as 1, 2, ..., N.
+It also assumes all processes take time > 0.
